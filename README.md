@@ -10,3 +10,5 @@
 	 - درست کردن فایل‌ها مناسب برای Moses
  - استفاده از ابزار Moses
 # خروجی پروژه
+[Moses Model
+](https://raw.githubusercontent.com/moeb1376/MT/master/my_working.zip)
